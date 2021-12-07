@@ -1,4 +1,6 @@
-### Hi there 👋
+方便笔记查看和总结，将公众号文章导出为PDF。
+公众号：aFa攻防实验室
+
 
 <!--
 **afasec/afasec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
